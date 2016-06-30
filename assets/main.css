@@ -39,3 +39,8 @@ body {
 	margin-right: 20px;
 	margin-bottom: 20px;
 }
+
+.message {
+    font-size: 30px;
+    font-style: bold;
+}
